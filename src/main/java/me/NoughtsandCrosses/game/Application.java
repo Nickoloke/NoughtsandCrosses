@@ -1,11 +1,10 @@
-package uk.ac.soton.comp1206;
+package me.NoughtsandCrosses.game;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 import javafx.stage.Stage;
-import javafx.scene.text.*;
 
 public class Application extends javafx.application.Application {
     private MenuScreen menuScreen;

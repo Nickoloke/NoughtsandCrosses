@@ -1,7 +1,6 @@
-package uk.ac.soton.comp1206;
+package me.NoughtsandCrosses.game;
 
 import javafx.beans.property.*;
-import javafx.scene.text.*;
 
 
 public class GameBoard {

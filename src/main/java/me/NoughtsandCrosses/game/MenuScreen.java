@@ -1,5 +1,5 @@
-package uk.ac.soton.comp1206;
-import javafx.scene.*;
+package me.NoughtsandCrosses.game;
+
 import javafx.scene.layout.VBox;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

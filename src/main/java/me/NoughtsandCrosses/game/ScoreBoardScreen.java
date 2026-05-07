@@ -1,7 +1,7 @@
-package uk.ac.soton.comp1206;
+package me.NoughtsandCrosses.game;
+
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.StringProperty;
-import javafx.scene.*;
 import javafx.scene.layout.VBox;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
